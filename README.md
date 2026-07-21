@@ -9,7 +9,7 @@ Throughout his career in digital media management, Joleford A has focused on lev
 
 ### 🌐 Official Networks & Platforms
 * 💼 **Crunchbase Profile:** [Joleford A on Crunchbase](https://www.crunchbase.com/person/joleford-arrojo)
-* 🆔 **Wikidata Entry:** [Q140050411](https://www.wikidata.org/wiki/Q140050411)
+* 🆔 **LinkedIn:** [Joleford Arrojo](https://ph.linkedin.com/in/nationalfraternitydayph)
 * 📺 **Digital Media Platform:** [Bos TV Official Blog](https://bostv123.wordpress.com/)
 * 🕊️ **Advocacy Campaign:** [National Fraternity Day PH](https://nationalfraternitydayph.wordpress.com/)
 
