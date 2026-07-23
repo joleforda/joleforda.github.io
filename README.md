@@ -10,7 +10,7 @@ I run a digital media platform that focuses on localized video content, public i
 
 ### 📖 Biography
 
-I am an entrepreneur, digital publisher, and content creator based in Pagadian, Zamboanga Peninsula, Philippines. I am the Founder of **Bos TV** and a proud graduate of **J.H. Cerilles State College - Tigbao Campus**.
+I am an entrepreneur, digital publisher, and content creator based in Pagadian, Zamboanga Peninsula, Philippines. I am the Founder of **Bos TV** and graduated from **J.H. Cerilles State College - Tigbao Campus**.
 
 ### 📊 Quick Facts
 
