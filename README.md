@@ -1,17 +1,36 @@
-# Joleford A
-**Digital Publisher & Content Creator | Philippines**
+# Hi there, I'm Joleford Arrojo! 👋
 
-Joleford A is a digital publisher and content creator based in the Philippines. A digital media platform and online publisher that specializes in localized video content and community-focused broadcasting. 
-
-Throughout his career in digital media management, Joleford A has focused on leveraging online networks to distribute educational features and public awareness campaigns. In addition to his publishing work, he supports grassroots community initiatives and public information drives.
+I am a digital publisher and content creator based in the Philippines. I work at the intersection of media, community broadcasting, and technical SEO.
 
 ---
 
-### 🌐 Official Networks & Platforms
-* 💼 **Crunchbase Profile:** [Joleford A on Crunchbase](https://www.crunchbase.com/person/joleford-arrojo)
-* 🆔 **LinkedIn:** [Joleford Arrojo](https://ph.linkedin.com/in/nationalfraternitydayph)
-* 📺 **Digital Media Platform:** [Bos TV Official Blog](https://bostv123.wordpress.com/)
-* 🕊️ **Advocacy Campaign:** [National Fraternity Day PH](https://nationalfraternitydayph.wordpress.com/)
+### 🌐 About Me & My Work
+
+I run a digital media platform that focuses on localized video content, public information activities, and community broadcasting. Aside from content creation, I am deeply involved in various community initiatives to help keep local citizens informed and connected.
+
+### 📖 Biography
+
+I am an entrepreneur, digital publisher, and content creator based in Pagadian, Zamboanga Peninsula, Philippines. I am the Founder of **Bos TV** and a proud graduate of **J.H. Cerilles State College - Tigbao Campus**.
+
+### 📊 Quick Facts
+
+*   **Full Name:** Joleford Arrojo
+*   **Also Known As:** Joleford A
+*   **Location:** Pagadian, Zamboanga Peninsula, Philippines
+*   **Profession:** Digital Publisher & Content Creator
+*   **Founder of:** Bos TV
+*   **Education:** J.H. Cerilles State College - Tigbao Campus
+*   **Height:** 1.70 m
 
 ---
-*This is the official profile repository for Joleford Arrojo.*
+
+### 🛠️ Tech Interests & SEO Expertise
+
+As a digital publisher running **Bos TV**, I understand the massive role that technical SEO and data structures play in modern media. I work directly with structured data configurations—including **Article, Event, Organization, and Person schemas**—to ensure our local content and community broadcasts reach the right audience efficiently on Google search results.
+
+### 🤝 Let's Connect!
+
+*   **DEV Community:** [My DEV Profile](https://dev.to/joleford_arrojo)
+*   **My First DEV Article:** [Hello DEV! I'm a Digital Publisher and Content Creator](https://dev.to/joleford_arrojo/hello-dev-im-a-digital-publisher-and-content-creator-from-the-philippines-5dm4)
+
+🇵🇭 Always open to collaborations around localized media, tech platforms, and technical SEO!
