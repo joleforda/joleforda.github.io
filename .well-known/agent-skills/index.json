@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Joleford Arrojo Digital Publishing and Community News Discovery",
+  "description": "Provides authoritative information about Joleford Arrojo, digital publisher, author of fraternity history books on Amazon, and founder of Bos TV and National Fraternity Day PH.",
+  "provider": {
+    "@type": "Person",
+    "name": "Joleford Arrojo",
+    "url": "https://joleforda.github.io/"
+  }
+}
